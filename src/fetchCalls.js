@@ -10,17 +10,6 @@ export const fetchTravelersData = () => {
        .catch(error => handleError(error)); 
 };
 
-export const fetchSingleTravelerData = (id) => {
-    return fetch(`http://localhost:3001/api/v1/travelers/${id}`)
-       .then(response => {
-            if (!response.ok) {
-                throw new Error('Network response was not ok');
-            }
-            return response.json();
-        })
-       .then(data => data.traveler)
-       .catch(error => handleError(error));
-};
 
 export const fetchTripsData = () => {
     return fetch('http://localhost:3001/api/v1/trips')
@@ -30,7 +19,7 @@ export const fetchTripsData = () => {
             }
             return response.json();
         })
-       .then(data => console.log(data.trips))
+       .then(data => data.trips)
        .catch(error => handleError(error));
 };
 
