@@ -27,7 +27,7 @@ The goal of this project was to create a single page application for travelers t
 
 
 ### Context:
-I am currently a Mod2 student and worked on this project for over 36 hours.
+I am currently a Mod2 student and worked on this project solo for a total of about 36-40 hours.
 
 ### Contributors
 * Jordan Williamson: https://github.com/JWill06
