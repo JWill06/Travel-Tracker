@@ -23,6 +23,7 @@ The goal of this project was to create a single page application for travelers t
 
 <img width="1417" alt="Screenshot 2024-06-11 at 7 45 52 PM" src="https://github.com/JWill06/Travel-Tracker/assets/127267694/6948639f-56ad-4cb0-819c-c690c2c8e312">
 
+<img width="1417" alt="Screenshot 2024-06-11 at 8 48 34 PM" src="https://github.com/JWill06/Travel-Tracker/assets/127267694/ffa6bf2f-750c-4d4e-bb69-07107a8440e9">
 
 
 ### Context:
